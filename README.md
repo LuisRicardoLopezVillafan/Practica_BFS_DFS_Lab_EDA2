@@ -1,4 +1,6 @@
-# Práctica: Búsqueda en Profundidad (DFS)
+A continuacion, se dan los problemas de la practica de DFS y BFS. Para cada algoritmo, se incluye en el repositorio un archivo .py para que alli realicen las implementaciones. Estos archivos contienen esqueletos con sugerencias y referencias, dado que el lenguaje es diferente al de las practicas anteriores. Pueden modificar estos archivos tanto como ustedes gusten. Tambien se extiende el tiempo de realizacion de esta primera practica de Python hasta el miercoles de la siguiente semana. Suerte!
+
+# Parte I. Búsqueda en Profundidad (DFS)
 
 ## Problema de las N Reinas
 
