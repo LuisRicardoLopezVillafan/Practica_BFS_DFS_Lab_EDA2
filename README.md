@@ -200,7 +200,7 @@ El cálculo debe **respetar los horarios** en los que cambian los tiempos estima
 
 - Utiliza el **algoritmo de Búsqueda en Anchura (BFS)** para recorrer el grafo de ciudades y determinar el camino más corto en número de aristas (no necesariamente en tiempo).
 - Una vez encontrado el camino, **calcula el tiempo total del recorrido** ajustando los tiempos de cada tramo según el horario en que inicia.
-- Se recomienda representar el grafo mediante un **diccionario de adyacencia** en Python.
+- Se recomienda representar el grafo mediante **listas o matrices de adyacencia** en Python.
 - Considera representar el **horario de inicio** en formato de 24 horas (por ejemplo, `5.0` para 5:00 am o `13.5` para 13:30 pm).
 
 ---
