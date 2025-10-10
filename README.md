@@ -170,7 +170,7 @@ De manera específica, los tiempos de traslado se comportan así:
 **Figura 1.** Mapa de las ciudades de Rumania.  
 *(Los valores en las aristas indican el tiempo promedio de traslado en minutos.)*
 
-![Mapa de Rumania]((https://image1.slideserve.com/2592244/road-map-of-romania-l.jpg))
+![Mapa de Rumania](https://image1.slideserve.com/2592244/road-map-of-romania-l.jpg)
 
 ---
 
